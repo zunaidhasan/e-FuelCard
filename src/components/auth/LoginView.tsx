@@ -99,7 +99,7 @@ export default function LoginView() {
         </p>
         <div style={{ borderTop: '1px solid var(--border)', paddingTop: '1.5rem', display: 'flex', justifyContent: 'center' }}>
           <img 
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Government_Seal_of_Bangladesh.svg/1024px-Government_Seal_of_Bangladesh.svg.png" 
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Government_Seal_of_Bangladesh.svg/960px-Government_Seal_of_Bangladesh.svg.png?_=20250711194103" 
             alt="Gov Logo" 
             style={{ width: '32px', height: '32px', opacity: 0.6 }} 
           />
